@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Health, Cyprus International Institute for Environmental and Public Health, Cyprus University of Technology, 2028 (expected)
+* M.S. in Epidemiology and Biostatistics, École des hautes études en santé publique (EHESP), 2022
+* MPH, University of Sheffield (2022)
+* B.S. in Health Sciences, University of South Florida, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2025 - Present: Research Fellow
+  * Cyprus University of Technology
+  * Duties includes: 
+  * Supervisor: Dr. Costas Christophi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2024 - March 2025: Research Fellow
+  * Cyprus University of Technology
+  * Duties included: 
+  * Supervisor: Dr. Konstantinos Makris
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February - June 2022: Biostatistics Intern
+  * Epicentre (Médecins Sans Frontières)
+  * Duties included: 
+  * Supervisor: Dr. Elizabeth Poulet
   
 Skills
 ======
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
