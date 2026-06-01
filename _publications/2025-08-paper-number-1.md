@@ -31,7 +31,8 @@ date: 2025-08-01
 venue: 'Environment International'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://hayleykunde.github.io/files/paper1.pdf'
-#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+bibtexurl: 'https://hayleykunde.github.io/files/bibtex1.bib'
+citation: 'Hayley Kunde, Elina I. Ioannou, Jasmin Chovatiya, Ravikumar Jagani, Pantelis Charisiadis, Manish Arora, Syam S. Andra, Konstantinos C. Makris,
+An exposomics analysis of 125 biomarkers of exposure to food contaminants and biomarkers of oxidative stress: a randomized cross-over chrononutrition trial of healthy adults,
+<i>Environment International</i>, Volume 202, 2025, 109682, ISSN 0160-4120, https://doi.org/10.1016/j.envint.2025.109682.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
